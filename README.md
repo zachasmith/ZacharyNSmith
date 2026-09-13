@@ -12,7 +12,11 @@
    - [Advanced Linux Permissions Management for Multi-User Research Project](https://github.com/zachasmith/Updating-file-permissions-in-linux)
 
 - <b>SQL: Updating Permissions using Linux</b>
-   - [SQL Queries for Security and Employee Management](https://github.com/zachasmith/SQL/blob/main/README.md) 
+   - [SQL Queries for Security and Employee Management](https://github.com/zachasmith/SQL/blob/main/README.md)
+
+- <b>Nessus: Vulnerability Scans</b>
+   - [Vulnerability Scanning Through Teneable](https://github.com/zachasmith/Vulnerability-Home-Lab)
+
   
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
